@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ritik</h1>
 <h3 align="center">A passionate Mern Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ritik-the-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ritik-the-dev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritik-the-dev" alt="ritik-the-dev" /></a> </p>
 
