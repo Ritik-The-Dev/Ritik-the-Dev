@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Mern Stack developer from India</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritik-the-dev" alt="ritik-the-dev" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritik-the-dev&label=Profile%20views&color=0e75b6&style=flat" alt="ritik-the-dev" /> </p>
 
 <p align="left"> <a href="https://twitter.com/2004_ritik" target="blank"><img src="https://img.shields.io/twitter/follow/2004_ritik?logo=twitter&style=for-the-badge" alt="2004_ritik" /></a> </p>
