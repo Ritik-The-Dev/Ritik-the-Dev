@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **joshiritik175@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1VqFB0IepE_Gml8Tf0fSEeYje7Ug4TOpr/view?usp=drive_link](https://drive.google.com/file/d/1VqFB0IepE_Gml8Tf0fSEeYje7Ug4TOpr/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/12GEnOcBFTMvnWwJKTJNKkoZjMWSDk_eW/view?usp=sharing]([https://drive.google.com/file/d/12GEnOcBFTMvnWwJKTJNKkoZjMWSDk_eW/view?usp=sharing])
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
