@@ -35,5 +35,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ritik-the-dev&show_icons=true&locale=en" alt="ritik-the-dev" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ritik-the-dev&" alt="ritik-the-dev" /></p>
 
 
