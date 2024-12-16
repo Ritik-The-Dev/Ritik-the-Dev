@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/2004_ritik" target="blank"><img src="https://img.shields.io/twitter/follow/2004_ritik?logo=twitter&style=for-the-badge" alt="2004_ritik" /></a> </p>
 
-- 🔭 I’m currently working with GRID R&D
+- 🔭 I’m currently working with Chawla Technologies
 
 - 🌱 I’m currently learning **Docker , DSA**
 
