@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **joshiritik175@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qJPBkPmeRbSw8hAazjRAyqgWeuahrl4_/view?usp=sharing](https://drive.google.com/file/d/1qJPBkPmeRbSw8hAazjRAyqgWeuahrl4_/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1qJPBkPmeRbSw8hAazjRAyqgWeuahrl4_/view?usp=sharing](https://drive.google.com/file/d/1BWFsxtD7dRJ1Yorv7x_QGSlKe-kC6FKZ/view?usp=sharing)](https://drive.google.com/file/d/1BWFsxtD7dRJ1Yorv7x_QGSlKe-kC6FKZ/view?usp=sharing)
 
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="2004_ritik" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ritikjoshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritikjoshi" height="30" width="40" /></a>
