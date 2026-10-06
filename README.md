@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on [Mern Stack Projects](https://github.com/Ritik-The-Dev)
 
-- 👨‍💻 All of my projects are available at [https://ritik-the-dev.netlify.app/](https://ritik-the-dev.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://ritik.biz/](https://ritik.biz/)
 
 - 💬 Ask me about **react ,Next ,Express ,Node**
 
